@@ -48,7 +48,7 @@
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Alpha Team](https://muharremgem.github.io/Alpha_Team/)| Html Css Bootstrap |![crewin](https://user-images.githubusercontent.com/97898216/186534031-e91366da-a35b-43f3-a2f1-e555242e8e7a.gif)
+[Alpha Team](https://muharremgem.github.io/Alpha_Team/)| Html Css Bootstrap |![crewin](./img/muharrem.gif)
 
 
 
