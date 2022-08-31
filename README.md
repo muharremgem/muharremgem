@@ -21,19 +21,12 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/muharremgem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muharrem gem" height="30" width="40" /></a>
 <a href=" " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="muharrem gem" height="30" width="40" /></a>  
-
   <a href="https://app.netlify.com/teams/muharremgem/overview" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg" alt="muharrem gem" height="30" width="40" /></a>
-  
 <a href="https://twitter.com/muharremgem28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
-
 <a href="https://www.secure.instagram.com/muharrem__gem/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Muharrem gem" height="30" width="40" /></a>
-
 <a href="https://dashboard.heroku.com/apps" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/heroku.svg" alt="muharrem gem" height="30" width="40" /></a>
-
 <a href="https://vercel.com/dashboard" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vercel.svg" alt="muharrem gem" height="30" width="40" /></a>
-
 <a href="https://www.sololearn.com/profile/25898969" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/sololearn.svg" alt="muharrem gem" height="30" width="40" /></a>
-
 <a href="https://www.figma.com/files/recent?fuid=1146789494867946996" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/figma.svg" alt="muharrem gem" height="30" width="40" /></a>
   
 
