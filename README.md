@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/muharremgem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fuat sevinc" height="30" width="40" /></a>
 <a href=" " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="muharrem gem" height="30" width="40" /></a>  
   <a href="https://app.netlify.com/teams/fuatsevinc/overview" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
-<a href="https://twitter.com/FuatSevinc_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
+<a href="https://twitter.com/muharremgem28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
 <a href="https://www.secure.instagram.com/muharrem__gem/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Muharrem gem" height="30" width="40" /></a>
 <a href="https://dashboard.heroku.com/pipelines/f9266513-11f3-4f2f-8cb2-bc0e5524a448" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/heroku.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
 <a href="https://vercel.com/fuatsevinc/react-language-cards/3AphSL7k8qN2rm4oAUpnY3xXVuU5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vercel.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
