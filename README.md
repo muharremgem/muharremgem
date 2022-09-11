@@ -34,6 +34,7 @@
 
 <br>
 
+
 ## My Skill Set
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
@@ -53,10 +54,11 @@
 <br/>  
 
 
+
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[www.muharremgem.com](https://www.muharremgem.com/)| Html Css  JavaScript Bootstrap |![crewin](./img/websitem.gif)
+[www.muharremgem.com](https://www.muharremgem.com/)| Html Css JavaScript |![websitem](./img/websitem.gif)
 
 
 
