@@ -6,7 +6,7 @@
 ### <div align="center">I'm Muharrem, a full-time Full-Stack Developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently student at bootcamp [Clarusway](https://clarusway.com/)  
+- 🔭 I’m currently student at bootcamp
   
 
 - 🌱 I’m currently learning Full Stack Development  
